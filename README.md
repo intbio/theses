@@ -2,7 +2,7 @@
 Bachelor, Master, PHD theses from members of IntBio Group
 ## PHD theses
 ### 2018
-1. Grioriy A. Armeev, [PHD/2018_Armeev](PHD/2018_Armeev)
+1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev)
 
 ## Master theses
 ### 2019
