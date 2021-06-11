@@ -7,6 +7,8 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ## Master theses
 ### 2019
 1. Anna K. Gribkova, [MSc/2019_Gribkova](MSc/2019_Gribkova)
+### 2021
+1. Anastasia S. Kniazeva, [MSc/2021_Kniazeva](MSc/2021_Kniazeva)
 
 
 ## Bachelor theses
@@ -15,7 +17,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2020
 1. Artem M. Neugodov [BSc/2020_Neugodov](BSc/2020_Neugodov)
 ### 2019
-1. Anastasia S. Kniazeva, [MSc/2019_Kniazeva](MSc/2019_Kniazeva)
+1. Anastasia S. Kniazeva, [BSc/2019_Kniazeva](BSc/2019_Kniazeva)
 2. Yunona Pospelova, [BSc/2019_Pospelova](BSc/2019_Pospelova)
 ### 2017
 1. Anna K. Gribkova, [BSc/2017_Gribkova](BSc/2017_Gribkova)
