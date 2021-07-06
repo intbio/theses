@@ -15,6 +15,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2021
 1. Roman V. Novikov [BSc/2021_Novikov](BSc/2021_Novikov)
 2. Grigoriy S. Timokhin [BSc/2021_Timokhin](BSc/2021_Timokhin)
+3. Alexandra Greshnova [BSc/2021_Timokhin](BSc/2021_Greshnova)
 ### 2020
 1. Artem M. Neugodov [BSc/2020_Neugodov](BSc/2020_Neugodov)
 ### 2019
