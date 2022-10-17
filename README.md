@@ -27,4 +27,4 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2017
 1. Anna K. Gribkova, [BSc/2017_Gribkova](BSc/2017_Gribkova)
 
-1. Anna K. Gribkova, [BSc/2017](BSc/2017_Gribkova)
+1. Anna K. Gribkova, [BSc/2017](BSc/2017)
