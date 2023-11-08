@@ -16,7 +16,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ## Bachelor theses
 ### 2022
 1. Daria D. Kozhevnikova [BSc/2022_Kozhevnikova](BSc/2022_Kozhevnikova)
-
+2. Nikita A. Motorin [BSc/2022_Motorin](BSc/2022_Motorin)
 ### 2021
 1. Roman V. Novikov [BSc/2021_Novikov](BSc/2021_Novikov)
 2. Grigoriy S. Timokhin [BSc/2021_Timokhin](BSc/2021_Timokhin)
