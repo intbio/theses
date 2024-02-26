@@ -9,14 +9,14 @@ Bachelor, Master, PHD theses from members of IntBio Group
 1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
 ## Master theses
-### 2019
-1. Anna K. Gribkova, [MSc/2019_Gribkova](MSc/2019_Gribkova)
-### 2021
-1. Anastasia S. Kniazeva, [MSc/2021_Kniazeva](MSc/2021_Kniazeva)
-### 2022
-1. Nikita A. Kosarim, [MSc/2022_Kosarim](MSc/2022_Kosarim)
 ### 2023
 1. Nikolay V. Kristovskiy [2023_Kristovskiy](MSc/2023_Kristovskiy)
+### 2022
+1. Nikita A. Kosarim, [2022_Kosarim](MSc/2022_Kosarim)
+### 2021
+1. Anastasia S. Kniazeva, [2021_Kniazeva](MSc/2021_Kniazeva)
+### 2019
+1. Anna K. Gribkova, [2019_Gribkova](MSc/2019_Gribkova)
 
 ## Bachelor theses
 ### 2022
