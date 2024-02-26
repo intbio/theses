@@ -19,6 +19,9 @@ Bachelor, Master, PHD theses from members of IntBio Group
 1. Anna K. Gribkova, [2019_Gribkova](MSc/2019_Gribkova)
 
 ## Bachelor theses
+### 2023
+1. Alexandra S. Shariafetdinova [BSc/2023_Shariafetdinova](BSc/2023_Shariafetdinova)
+2. Veniamin A. Vasilev [BSc/2023_Vasilev](BSc/2023_Vasilev)
 ### 2022
 1. Daria D. Kozhevnikova [BSc/2022_Kozhevnikova](BSc/2022_Kozhevnikova)
 2. Nikita A. Motorin [BSc/2022_Motorin](BSc/2022_Motorin)
