@@ -37,3 +37,10 @@ Bachelor, Master, PHD theses from members of IntBio Group
 2. Yunona Pospelova, [BSc/2019_Pospelova](BSc/2019_Pospelova)
 ### 2017
 1. Anna K. Gribkova, [BSc/2017_Gribkova](BSc/2017_Gribkova)
+
+## Courseworks
+### 2024
+1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2023_Romanova)
+### 2023
+1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2023_Romanova)
+
