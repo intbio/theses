@@ -40,7 +40,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 ## Courseworks
 ### 2024
-1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2023_Romanova)
+1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2024_Romanova)
 ### 2023
 1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2023_Romanova)
 
