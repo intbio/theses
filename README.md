@@ -45,4 +45,6 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2023
 1. Tatiana A. Romanova, [Courseworks/2023_Romanova](Courseworks/2023_Romanova)
 2. Renat S. Vinnikov [Courseworks/2023_Vinnikov](Courseworks/2023_Vinnikov)
+### 2022
+1. Renat S. Vinnikov [Courseworks/2022_Vinnikov](Courseworks/2022_Vinnikov)
 
