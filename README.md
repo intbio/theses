@@ -9,6 +9,8 @@ Bachelor, Master, PHD theses from members of IntBio Group
 1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
 ## Master theses
+### 2024
+1. Nikita A. Motorin [2024_Motorin](MSc/2024_motorin)
 ### 2023
 1. Nikolay V. Kristovskiy [2023_Kristovskiy](MSc/2023_Kristovskiy)
 ### 2022
