@@ -28,6 +28,8 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2025
 1. Anna I. Razinkova [BSc/2025_Razinkova](BSc/2025_Razinkova)
 2. Pavel G. Feskin [BSc/2025_Feskin](BSc/2025_Feskin)
+### 2024
+1. Dmitry M. Ryabov [BSc/2024_Ryabov](BSc/2024_Ryabov)
 ### 2023
 1. Alexandra S. Shariafetdinova [BSc/2023_Shariafetdinova](BSc/2023_Shariafetdinova)
 2. Veniamin A. Vasilev [BSc/2023_Vasilev](BSc/2023_Vasilev)
