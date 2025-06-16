@@ -13,6 +13,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 1. Veniamin A. Vasilev [2025 Vasilev](MSc/2025_Vasilev)
 2. Alexandra S. Shariafetdinova [MSc/2025_Sharyafetdinova](MSc/2025_Sharyafetdinova)
 3. Tatiana A. Romanova [2025_Romanova](MSc/2025_Romanova) (Specialist thesis)
+4. Valeriy V. Guscha [2025_Guscha](MSc/2025_Guscha) 
 ### 2024
 1. Nikita A. Motorin [2024_Motorin](MSc/2024_motorin)
 2. Naida Yu. Mamaeva [2024_Mamaeva](MSc/2024_Mamaeva)
