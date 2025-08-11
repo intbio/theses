@@ -10,7 +10,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 ## Master theses
 ### 2024
-1. Nikita A. Motorin [2024_Motorin](MSc/2024_motorin)
+1. Nikita A. Motorin [2024_Motorin](https://github.com/intbio/theses/tree/master/MSc/2024_motorin)
 2. Naida Yu. Mamaeva [2024_Mamaeva](https://github.com/intbio/theses/tree/master/MSc/2024_Mamaeva)
 ### 2023
 1. Nikolay V. Kristovskiy [2023_Kristovskiy](MSc/2023_Kristovskiy)
