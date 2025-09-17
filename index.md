@@ -1,13 +1,16 @@
-<a href="https://github.com/intbio/mm_hse_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<a href="https://github.com/intbio/theses/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # Theses defended by the members of Integrative Biology Group
 Bachelor, Master, PHD theses from members of IntBio Group
 ## PHD theses
+
+### 2018
+1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
+
+## Graduate school theses
 ### 2023
 1. Anna K. Gribkova, [PHD/2023_Gribkova.pdf](PHD/2023_Gribkova.pdf)
 2. Lovepreet Singh-Palchevskaia, [PHD/2023_Singh.pdf](PHD/2023_Singh.pdf)
 
-### 2018
-1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
 ## Master theses
 ### 2024
