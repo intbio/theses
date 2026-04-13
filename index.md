@@ -6,6 +6,10 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2018
 1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
+### 2026
+1. Anastasiia S. Fedulova, [PHD/2026_Fedulova.pdf](PHD/2026_Fedulova.pdf)
+
+
 ## Graduate school theses
 ### 2023
 1. Anna K. Gribkova, [PHD/2023_Gribkova.pdf](PHD/2023_Gribkova.pdf)
