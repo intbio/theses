@@ -1,4 +1,4 @@
-<a href="https://github.com/intbio/theses/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+<a href="https://github.com/intbio/theses/blob/master/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # Theses defended by the members of Integrative Biology Group
 Bachelor, Master, PHD theses from members of IntBio Group
 ## PHD theses
