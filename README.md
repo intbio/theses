@@ -33,6 +33,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2026
 1. Vladimir Kulikov [BSc/2026_Kulikov](BSc/2026_Kulikov)
 2. Vladimir Sidorov [BSc/2026_Sidorov](BSc/2026_Sidorov)
+3. Valerii A. Iakovlev [BSc/2026_Iakovlev](BSc/2026_Iakovlev)
 ### 2025
 1. Anna I. Razinkova [BSc/2025_Razinkova](BSc/2025_Razinkova)
 2. Pavel G. Feskin [BSc/2025_Feskin](BSc/2025_Feskin)
