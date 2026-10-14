@@ -13,7 +13,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 ## Master theses
 ### 2026
-1. Pavel D. Oleinikov https://github.com/intbio/theses/tree/2b0c970698c2c74e998ebf34ace5432646a71192/MSc/Oleinikov_master_thesis_2026
+1. Pavel D. Oleinikov [MSc/Oleinikov_master_thesis_2026](MSc/Oleinikov_master_thesis_2026)
 ### 2025
 1. Veniamin A. Vasilev [2025 Vasilev](MSc/2025_Vasilev)
 2. Alexandra S. Shariafetdinova [MSc/2025_Sharyafetdinova](MSc/2025_Sharyafetdinova)
