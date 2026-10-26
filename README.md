@@ -1,15 +1,18 @@
 # theses
 Bachelor, Master, PHD theses from members of IntBio Group
+
 ## PHD theses
 ### 2026
-1. Anastasiia S. Fedulova, [PHD/2026_Fedulova](PHD/2026_Fedulova)
+1. Anastasiia S. Fedulova, [PHD/2026_Fedulova.pdf](PHD/2026_Fedulova)
+2. Anna K. Gribkova, [PHD/2026_Gribkova](PHD/2026_Gribkova)
+### 2018
+1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
+## Graduate school theses
 ### 2023
 1. Anna K. Gribkova, [PHD/2023_Gribkova.pdf](PHD/2023_Gribkova.pdf)
 2. Lovepreet Singh-Palchevskaia, [PHD/2023_Singh.pdf](PHD/2023_Singh.pdf)
 
-### 2018
-1. Grioriy A. Armeev, [PHD/2018_Armeev.pdf](PHD/2018_Armeev.pdf)
 
 ## Master theses
 ### 2026
@@ -20,8 +23,8 @@ Bachelor, Master, PHD theses from members of IntBio Group
 3. Tatiana A. Romanova [2025_Romanova](MSc/2025_Romanova) (Specialist thesis)
 4. Valeriy V. Guscha [2025_Guscha](MSc/2025_Guscha) 
 ### 2024
-1. Nikita A. Motorin [2024_Motorin](MSc/2024_motorin)
-2. Naida Yu. Mamaeva [2024_Mamaeva](MSc/2024_Mamaeva)
+1. Nikita A. Motorin [2024_Motorin](https://github.com/intbio/theses/tree/master/MSc/2024_motorin)
+2. Naida Yu. Mamaeva [2024_Mamaeva](https://github.com/intbio/theses/tree/master/MSc/2024_Mamaeva)
 ### 2023
 1. Nikolay V. Kristovskiy [2023_Kristovskiy](MSc/2023_Kristovskiy)
 ### 2022
@@ -33,9 +36,11 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 ## Bachelor theses
 ### 2026
-1. Vladimir Kulikov [BSc/2026_Kulikov](BSc/2026_Kulikov)
-2. Vladimir Sidorov [BSc/2026_Sidorov](BSc/2026_Sidorov)
-3. Valerii A. Iakovlev [BSc/2026_Iakovlev](BSc/2026_Iakovlev)
+1. Mikhail M. Belskiy [BSc/2026_Belskiy](BSc/2026_Belskiy)
+2. Vitalii A. Mandybura [BSc/2026_Mandybura](BSc/2026_Mandybura)
+3. Vladimir Kulikov [BSc/2026_Kulikov](BSc/2026_Kulikov)
+4. Vladimir Sidorov [BSc/2026_Sidorov](BSc/2026_Sidorov)
+5. Valerii A. Iakovlev [BSc/2026_Iakovlev](BSc/2026_Iakovlev)
 ### 2025
 1. Anna I. Razinkova [BSc/2025_Razinkova](BSc/2025_Razinkova)
 2. Pavel G. Feskin [BSc/2025_Feskin](BSc/2025_Feskin)
