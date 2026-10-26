@@ -8,6 +8,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 ### 2026
 1. Anastasiia S. Fedulova, [PHD/2026_Fedulova.pdf](PHD/2026_Fedulova)
+2. Anna K. Gribkova, [PHD/2026_PhD_Gribkova.pdf](PHD/2026_PhD_Gribkova)
 
 
 ## Graduate school theses
