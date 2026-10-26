@@ -11,6 +11,8 @@ Bachelor, Master, PHD theses from members of IntBio Group
 
 
 ## Graduate school theses
+### 2026
+1. Nikita A. Kosarim, [PHD/2026_Kosarim.pdf](PHD/2026_Kosarim.pdf)
 ### 2023
 1. Anna K. Gribkova, [PHD/2023_Gribkova.pdf](PHD/2023_Gribkova.pdf)
 2. Lovepreet Singh-Palchevskaia, [PHD/2023_Singh.pdf](PHD/2023_Singh.pdf)
