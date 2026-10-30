@@ -35,6 +35,7 @@ Bachelor, Master, PHD theses from members of IntBio Group
 ### 2026
 1. Mikhail M. Belskiy [BSc/2026_Belskiy](BSc/2026_Belskiy)
 2. Vitalii A. Mandybura [BSc/2026_Mandybura](BSc/2026_Mandybura)
+3. Azamat A. Uzdenov [Thesis](BSc/2026_Uzdenov/2026_Uzdenov_thesis.docx), [Slides](BSc/2026_Uzdenov/2026_Uzdenov_slides.pptx)
 ### 2023
 1. Alexandra S. Shariafetdinova [BSc/2023_Shariafetdinova](BSc/2023_Shariafetdinova)
 2. Veniamin A. Vasilev [BSc/2023_Vasilev](BSc/2023_Vasilev)
